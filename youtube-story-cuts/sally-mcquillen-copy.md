@@ -1,6 +1,11 @@
 # Sally McQuillen story cut: upload copy
 
-Drafts for review. Nothing here has been posted.
+Posted Public on September 26, 2026:
+
+- Story cut: https://www.youtube.com/watch?v=H8q7RG-g-BA (title: I Still Have the Biggest Crush on My Son)
+- Short: https://www.youtube.com/shorts/6y0lcjovRtY (links back to the story cut)
+
+Tags added to the story cut. Still manual: end screens.
 
 Why this section: in the full episode (PjN5wFBOtXI), viewers skip ahead to about 20:00, the "Loss and the choice to keep living" chapter, and that stretch holds better than the rest of the video.
 
@@ -59,4 +64,4 @@ Ends: "...I want to kind of return to that."
 
 Sally still has the biggest crush on her son, Christopher. He was so purely in the moment.
 
-The full story: [link to the story cut once it is up]
+The full story: https://www.youtube.com/watch?v=H8q7RG-g-BA
