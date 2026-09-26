@@ -1,6 +1,13 @@
 # YouTube story cuts: upload copy
 
-Drafts for review. Nothing here has been posted.
+Posted Public on September 26, 2026:
+
+- Ryan story cut: https://www.youtube.com/watch?v=5gIh4skDcIY
+- Robin story cut: https://www.youtube.com/watch?v=cyZAsh6bL0g
+- Ryan Short: https://www.youtube.com/shorts/5YX7CMVjoBM
+- Robin Short: https://www.youtube.com/shorts/6Fk9Ys-iqSs
+
+Still manual: end screens, pinned comments, custom thumbnails.
 
 ---
 
@@ -72,7 +79,7 @@ Ryan was standing on a snowy rooftop, completely at peace. Then his wife's job c
 
 The full story is on the channel: The Phone Call at Lunch That Changed My Life.
 
-**Pinned comment (after upload):** The full story is here: [link to Ryan's long video]
+**Pinned comment (after upload):** The full story is here: https://www.youtube.com/watch?v=5gIh4skDcIY
 
 ---
 
@@ -86,4 +93,4 @@ Her mom was gone. Her dad left her ten dollars a week and her little sister to r
 
 The full story is on the channel: Raising My Little Sister at 11 on $10 a Week.
 
-**Pinned comment (after upload):** The full story is here: [link to Robin's long video]
+**Pinned comment (after upload):** The full story is here: https://www.youtube.com/watch?v=cyZAsh6bL0g
