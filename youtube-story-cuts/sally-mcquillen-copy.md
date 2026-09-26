@@ -2,8 +2,11 @@
 
 Posted Public on September 26, 2026:
 
-- Story cut: https://www.youtube.com/watch?v=H8q7RG-g-BA (title: I Still Have the Biggest Crush on My Son)
-- Short: https://www.youtube.com/shorts/6y0lcjovRtY (links back to the story cut)
+- Story cut (re-cut, filler words muted instead of cut, 10:05): https://www.youtube.com/watch?v=si0wdhmiQgE
+- Short (re-cut, 59 seconds): https://www.youtube.com/shorts/D1cRQeETPCA (links back to the story cut)
+- First versions: story cut H8q7RG-g-BA (removed from the channel), Short 6y0lcjovRtY (set to Private)
+
+Note: after upload, the story cut's title changed to "Why I Still Feel Like a Mother to a Ghost" and its tags were replaced. Not done from here.
 
 Tags added to the story cut. Still manual: end screens.
 
@@ -64,4 +67,4 @@ Ends: "...I want to kind of return to that."
 
 Sally still has the biggest crush on her son, Christopher. He was so purely in the moment.
 
-The full story: https://www.youtube.com/watch?v=H8q7RG-g-BA
+The full story: https://www.youtube.com/watch?v=si0wdhmiQgE
