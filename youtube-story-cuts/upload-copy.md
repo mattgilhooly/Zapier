@@ -7,7 +7,8 @@ Posted Public on September 26, 2026:
 - Ryan Short: https://www.youtube.com/shorts/5YX7CMVjoBM
 - Robin Short: https://www.youtube.com/shorts/6Fk9Ys-iqSs
 
-Still manual: end screens, pinned comments, custom thumbnails.
+Short descriptions now link straight to the long videos (comments could not be posted: Zernio needs its Inbox add-on).
+Still manual: end screens, custom thumbnails.
 
 ---
 
@@ -65,7 +66,7 @@ Newsletter: https://thelifeshiftpodcast.beehiiv.com
 
 **Tags:** Robin Rosenbluth, foster care story, foster care survivor, losing a parent young, parentified child, childhood abandonment, You Gotta Believe, The Life Shift Podcast
 
-**End screen:** Full episode (1G9amHFQnJM) + 147 Days: Raising and Losing My Sister (Andrea Wilson Woods, YouTube link to confirm)
+**End screen:** Full episode (1G9amHFQnJM) (https://youtu.be/1G9amHFQnJM). Second slot open, Matt to choose.
 
 ---
 
